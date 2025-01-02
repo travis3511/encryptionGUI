@@ -1,0 +1,17 @@
+HELP DOCUMENT
+
+cryptoapp.exe -> provides a GUI that lets you encrypt a file
+encrypt.exe -> open files with this program and encrypt
+decrypt.exe -> open files with this program and decrypt
+
+CryptoAPP - Help
+________________________________
+Name     | Password | Security  |
+XOR      | yes      | very low  |
+NXOR     | yes      | very low  |
+NOT      | no       | very low  |
+AES-256  | yes      | very high |
+AES-128  | yes      | high      |
+DES      | yes      | low       |
+Blowfish | yes      | medium    |
+
